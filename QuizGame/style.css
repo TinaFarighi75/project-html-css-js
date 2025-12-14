@@ -29,7 +29,9 @@ body {
     padding: 2rem;
     text-align: center;
   }
-
+  .screen.active {
+    display: block;
+  }
 /*Start Screen*/
 
 #start-screen h1 {
